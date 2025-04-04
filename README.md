@@ -92,7 +92,7 @@ python main.py --file path/to/document.pdf \
 | `--model-ret` | `-mr` | Ollama model for answering questions | qwen2.5:7b |
 | `--gen-temp` | | Temperature for question generation | 0.1 |
 | `--ret-temp` | | Temperature for answer generation | 0.0 |
-| `--output-dir` | `-o` | Directory to save dataset files | ./datasets |
+| `--output-dir` | `-o` | Directory to save dataset files | datasets |
 | `--log-level` | | Logging level (DEBUG, INFO, WARNING, ERROR, CRITICAL) | INFO |
 
 
