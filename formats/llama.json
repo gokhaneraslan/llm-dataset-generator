@@ -1,0 +1,20 @@
+{
+  "conversations": [
+    {
+      "from": "human",
+      "value": "Question 1?"
+    },
+    {
+      "from": "gpt",
+      "value": "Answer 1"
+    },
+    {
+      "from": "human",
+      "value": "Question 2?"
+    },
+    {
+      "from": "gpt",
+      "value": "Answer 2"
+    }
+  ]
+}
