@@ -1,4 +1,4 @@
-# Custom LLM Dataset Generator
+# Custom LLM Dataset Generator 
 
 A Python tool for automatically generating question-answer datasets from documents using Ollama for local LLM inference.
 
